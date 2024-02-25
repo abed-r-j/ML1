@@ -2,7 +2,7 @@
 ##### Nicola Lawandos (Email: nicola.lawandos@net.usj.edu.lb, Matricule: 
 
 
-# Machine Learning Classification Project Description
+# Machine Learning Classification On A Numeric Dataset Description
 
 Expecting salaries based on various factors such as age, education level, years of experience, and gender. The project utilizes the Random Forest Regression algorithm and explores various data visualizations and insights before building the model.
 
