@@ -34,6 +34,7 @@ Utilizing a TensorFlow model and exploring data through visualizations before bu
 3. Matplotlib
 4. Seaborn
 5. TensorFlow
+6. Keras
 
 
 ## 2. Dataset Overview
