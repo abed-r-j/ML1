@@ -1,5 +1,5 @@
 ##### Abed El Rahmane Jaafir (Email: abedelrahmane.jaafir@net.usj.edu.lb, Matricule: 210950)
-##### Nicola Lawandos (Email: nicola.lawandos@net.usj.edu.lb, Matricule: 
+##### Nicola Lawandos (Email: nicola.lawandos@net.usj.edu.lb, Matricule: 201161)
 
 
 # Machine Learning Classification On A Numeric Dataset Description
