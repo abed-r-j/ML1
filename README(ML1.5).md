@@ -1,6 +1,6 @@
 ##### Abed El Rahmane Jaafir (Email: abedelrahmane.jaafir@net.usj.edu.lb, Matricule: 210950)
 ##### Nicola Lawandos (Email: nicola.lawandos@net.usj.edu.lb, Matricule: 201161)
-# ML1.5 Deep Learning Classification On A Numeric Dataset
+# Deep Learning Classification On A Numeric Dataset
 
 Probability of some patients having a heart attack.
 
